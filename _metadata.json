@@ -1,0 +1,68 @@
+{
+  "hash": "0524a263",
+  "configHash": "44380404",
+  "lockfileHash": "fd172268",
+  "browserHash": "d370e029",
+  "optimized": {
+    "html5-qrcode": {
+      "src": "../../html5-qrcode/esm/index.js",
+      "file": "html5-qrcode.js",
+      "fileHash": "6c7e957e",
+      "needsInterop": false
+    },
+    "jsqr": {
+      "src": "../../jsqr/dist/jsQR.js",
+      "file": "jsqr.js",
+      "fileHash": "8149cc77",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "7c982937",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "4fcbd00b",
+      "needsInterop": true
+    },
+    "react-leaflet": {
+      "src": "../../react-leaflet/lib/index.js",
+      "file": "react-leaflet.js",
+      "fileHash": "0df415cb",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "1401bacd",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "3361e822",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "e4680acd",
+      "needsInterop": true
+    },
+    "reactflow": {
+      "src": "../../reactflow/dist/esm/index.mjs",
+      "file": "reactflow.js",
+      "fileHash": "9d927d75",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "rolldown-runtime-BPOCksWG": {
+      "file": "rolldown-runtime-BPOCksWG.js",
+      "isDynamicEntry": false
+    }
+  }
+}
